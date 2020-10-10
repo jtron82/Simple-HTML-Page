@@ -1,1 +1,1 @@
-# itmd361_lab1
+# Simple HTML Page for ITMD 361 Lab 1
